@@ -1,0 +1,4 @@
+United States,350000000
+Peru,32000000
+Russia,136000000
+Mexico,129000000
